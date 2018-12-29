@@ -1,7 +1,7 @@
 # Paint
 It is a simple java application that implements a simple text based drawing program.This system will  take the form of a command-line application and should allow the users to do the following:
 1. Create a new canvas ( Example: **C 20 5**)
-2. Draw on the canvas using text based commands (Example: **L 1 3 7 3** Or **R 15 2 20 5** where L means Line and R means Rectangle)
+2. Draw on the canvas using text based commands (Example: **L 1 3 7 3** Or **R 15 2 20 5** where **L** means Line and **R** means Rectangle)
 3. Quit the program (Example: **Q**)
 
 ## Tools used
